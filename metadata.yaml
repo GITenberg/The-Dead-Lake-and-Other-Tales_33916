@@ -1,0 +1,39 @@
+_repo: The-Dead-Lake-and-Other-Tales_33916
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wilson, Mary
+    gutenberg_agent_id: '42013'
+    url: http://www.gutenberg.org/2009/agents/42013
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heyse, Paul Johann Ludwig von
+    - Heise, Paul
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+description: A fortnight at the dead lake.--Doomed.--Beatrice.--Beginning and end.
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+tableOfContents: A fortnight at the Dead Lake -- Doomed -- Beatrice -- Beginning,
+  and end.
+title: The Dead Lake, and Other Tales
+url: http://www.gutenberg.org/ebooks/33916
